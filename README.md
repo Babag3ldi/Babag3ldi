@@ -51,13 +51,11 @@
 <!-- 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
-Flutter      5 hrs 30 mins   ████████████░░░░░░░░░░░░░   48.04 %
+
+<!-- Flutter      5 hrs 30 mins   ████████████░░░░░░░░░░░░░   48.04 %
 SWIFT        2 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.83 %
 Firebase     2 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.90 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-```
- -->
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % -->
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -66,10 +64,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- 🚧 **my todolist stats:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
+<!-- 🏆  7,995 Karma Points            -->
+<!-- 🌸  Completed 0 tasks today           
 ✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END --> -->
 
 
