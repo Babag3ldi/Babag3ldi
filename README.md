@@ -18,13 +18,13 @@
 - :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 - 🌱 I’m currently learning **Flutter**
-
+- 📫 How to reach me [gmail](babageldiorunov@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 
 <!--   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="500" height="320" /> -->
   
-- 📫 How to reach me [gmail](babageldiorunov@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -48,7 +48,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+<!-- 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -57,23 +57,23 @@ SWIFT        2 hrs 44 mins   ██████░░░░░░░░░░░
 Firebase     2 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.90 %
 Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
-
+ -->
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
+<!-- 🚧 **my todolist stats:**
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<!-- TODO-IST:END --> -->
 
 
-📈 my github stats
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=babag3ldi&show_icons=true&locale=en&theme=blue-green" alt="Babag3ldi" />
 
