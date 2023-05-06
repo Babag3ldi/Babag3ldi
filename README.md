@@ -75,7 +75,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=babag3ldi&show_icons=true&locale=en" alt="Babag3ldi" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=babag3ldi&show_icons=true&locale=en&theme=blue-green" alt="Babag3ldi" />
 
 
 
