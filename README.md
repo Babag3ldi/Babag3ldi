@@ -14,9 +14,6 @@
 - :school: I'm currently the student at **ETUT**
 - :books: My major is **Informatics and Computing Techniques**
 - :earth_asia: I'm living now in **Ashgabat city**
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me [gmail](babageldiorunov@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
